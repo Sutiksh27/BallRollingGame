@@ -1,0 +1,15 @@
+// Sound
+https://www.youtube.com/watch?v=EciYWWDIgB8
+https://notification-sounds.com/166-mario-jump-sound.html
+https://notification-sounds.com/2247-mario-coin-sound.html
+
+// Scene Management
+https://www.youtube.com/watch?v=5TOHaygv1IE
+https://www.youtube.com/watch?v=PpIkrff7bKU
+
+// Character Controller
+https://medium.com/ironequal/unity-character-controller-vs-rigidbody-a1e243591483
+
+// Checkpoints
+https://answers.unity.com/questions/595976/reset-a-scene-but-save-checkpoints.html
+https://answers.unity.com/questions/686045/how-to-save-the-spawnpoint-to-the-checkpoint-by-re.html
